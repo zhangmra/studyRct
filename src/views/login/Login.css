@@ -1,0 +1,26 @@
+#tsparticles {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.login{
+  padding-top: 30px;
+  background: rgba(225,225,225,.5);
+  width:50vw;
+  height:30vh;
+  border-radius: 20px;
+  display:flex;
+  flex-direction:column;
+  justify-content: center; align-items:center;
+  position:fixed;
+  top: 25vh;
+  left: 25vw;
+  padding-bottom:10px;
+
+}
