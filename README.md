@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+### `项目下载后进行项目依赖安装npm install`
+
+### ` 运行jsonserver进入到code文件下运行：json-server --watch .\db.json --port 5000 `
+
 ### `npm start`
 
 Runs the app in the development mode.\
